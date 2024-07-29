@@ -46,8 +46,8 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/facial_recognition_system.git
-    cd facial_recognition_system
+    git clone https://github.com/revanthchristober/Facial-Recognition-System.git
+    cd Facial-Recognition-System
     ```
 
 2. Install the required dependencies:
