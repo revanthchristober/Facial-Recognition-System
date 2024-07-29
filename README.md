@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to develop a facial recognition system capable of identifying and verifying faces in images or video streams. The system leverages advanced machine learning techniques and utilizes popular libraries such as OpenCV, Dlib, and `face_recognition`. The project is divided into several components, including data preprocessing, face detection, feature extraction, model training, and real-time integration.
+This project aims to develop a facial recognition system capable of identifying and verifying faces in images or video streams. The system leverages advanced machine learning techniques and utilizes popular libraries such as OpenCV, Dlib. The project is divided into several components, including data preprocessing, face detection, feature extraction, model training, and real-time integration.
 
 ## Project Structure
 
