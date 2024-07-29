@@ -1,4 +1,5 @@
 numpy
+pytest
 opencv-python
 dlib
 face_recognition
